@@ -136,11 +136,11 @@ const AboutPage: React.FC = () => {
               Plattformen är ett open source-projekt med all kod tillgänglig på GitHub. Vi drivs ideellt och samarbetar gärna med utvecklare, dataanalytiker, UX-designers, forskare och andra samhällsintresserade som vill bidra till projektet.
             </p>
             
-            <p className="text-gray-700 mb-6">
-              <a href="https://github.com/samhallskod/upphandlingsplattformen" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:text-purple-700 underline font-semibold">
-                Upphandlingsplattformen på GitHub
-              </a>
-            </p>
+                               <p className="text-gray-700 mb-6">
+                     <a href="https://github.com/samhallskod/Upphandlingsplattformen" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:text-purple-700 underline font-semibold">
+                       Upphandlingsplattformen på GitHub
+                     </a>
+                   </p>
             
             <p className="text-gray-700 mb-6">
               Alla är välkomna att bidra - oavsett om det gäller kod, dokumentation, buggrapporter eller idéer. Tillsammans skapar vi en öppen infrastruktur för upphandlingsdata i Sverige.

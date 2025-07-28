@@ -101,10 +101,10 @@ const IntegrityPolicyPage: React.FC = () => {
             <p className="text-gray-700 mb-6">
               Om du har frågor om denna integritetspolicy eller hur vi hanterar data, kontakta oss via:
             </p>
-            <ul className="list-disc list-inside text-gray-700 mb-6 space-y-2">
-              <li><strong>GitHub:</strong> <a href="https://github.com/samhallskod/upphandlingsplattformen" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:text-purple-700 underline">Upphandlingsplattformen på GitHub</a></li>
-              <li><strong>E-post:</strong> samhallskod@proton.me</li>
-            </ul>
+                               <ul className="list-disc list-inside text-gray-700 mb-6 space-y-2">
+                     <li><strong>GitHub:</strong> <a href="https://github.com/samhallskod/Upphandlingsplattformen" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:text-purple-700 underline">Upphandlingsplattformen på GitHub</a></li>
+                     <li><strong>E-post:</strong> samhallskod@proton.me</li>
+                   </ul>
 
             <div className="bg-gray-50 rounded-lg p-6 mt-8">
               <h4 className="text-lg font-semibold text-gray-800 mb-3">Senast uppdaterad</h4>
