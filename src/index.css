@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-purple-100: #6B287920;
+  --color-purple-600: #6B2879;
+  --color-purple-700: #7B4288;
+}
+
+/* Animated top border */
+@keyframes top-border-fill {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+.animate-top-border {
+  animation: top-border-fill 0.3s ease-out forwards;
+}
