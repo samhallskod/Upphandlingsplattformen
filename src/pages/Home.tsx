@@ -161,35 +161,6 @@ const Home: React.FC = () => {
           </div>
         </div>
       </div>
-
-      {/* Stats Section */}
-      <div className="py-16 sm:py-24 bg-gray-50">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-4">
-              Plattformen i siffror
-            </h2>
-            <p className="text-xl text-gray-600">
-              Vi arbetar för att göra offentliga upphandlingar mer tillgängliga och transparenta.
-            </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <div className="text-center">
-              <div className="text-4xl font-bold text-purple-600 mb-2">0kr</div>
-              <p className="text-gray-600">Kostnad</p>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl font-bold text-purple-600 mb-2">100%</div>
-              <p className="text-gray-600">Öppen källkod</p>
-            </div>
-            <div className="text-center">
-              <div className="text-4xl font-bold text-purple-600 mb-2">100%</div>
-              <p className="text-gray-600">Transparens och insyn</p>
-            </div>
-          </div>
-        </div>
-      </div>
     </>
   )
 }
